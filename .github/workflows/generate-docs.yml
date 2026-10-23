@@ -1,0 +1,44 @@
+name: Generate Core Reports Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+  workflow_dispatch:     # Allows you to manually trigger it from the Actions tab
+
+permissions:
+  contents: write        # Required to push the updated docs back to the repo
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bash and tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq rsync
+
+      - name: Run generate.sh
+        run: |
+          chmod +x generate.sh
+          ./generate.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are any changes in the docs directory
+          git status
+          git add docs/
+          
+          # Only commit and push if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to document files detected."
+          else
+            git commit -m "chore: automated documentation update [skip ci]"
+            git push
+          fi
