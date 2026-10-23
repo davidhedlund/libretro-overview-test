@@ -9,8 +9,7 @@
      - [PlayStation](#playstation)
      - [WebOS](#webos)
      - [Windows](#windows)
-   - [For developers](#for-developers)
-     - [Libretro files](#libretro-files)
+   - [Docs and info files](#docs-and-info-files)
      - [Files without cores](#files-without-cores)
        - [Info files without cores](#info-files-without-cores)
        - [Document files without cores](#document-files-without-cores)
@@ -2201,7 +2200,7 @@
 | ymir | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/ymir_libretro.dll.zip) |
 
 
-## For developers
+## Docs and info files
 
 ### Libretro Files
 | Core | Has info | Has doc |
