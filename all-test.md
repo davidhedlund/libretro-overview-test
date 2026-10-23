@@ -10,7 +10,7 @@
      - [WebOS](#webos)
      - [Windows](#windows)
    - [Docs and info files](#docs-and-info-files)
-     - [Files without cores](#files-without-cores)
+     - [Auxiliary files](#auxiliary-files)
        - [Info files without cores](#info-files-without-cores)
        - [Document files without cores](#document-files-without-cores)
 
@@ -2201,8 +2201,6 @@
 
 
 ## Docs and info files
-
-### Libretro Files
 | Core | Has info | Has doc |
 |---|---|---|
 | 2048 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/2048_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/2048.md) |
@@ -2473,8 +2471,7 @@
 | yabasanshiro | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/yabasanshiro_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/yabasanshiro.md) |
 | yabause | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/yabause_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/yabause.md) |
 | ymir | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ymir_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/ymir.md) |
-
-### Files without cores
+## Auxiliary files
 
 #### Info Files Without Cores
 | Info |
