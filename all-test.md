@@ -1,6 +1,6 @@
 # Libretro Overview
 
-   - [Core OS and architecture support](#core-os-and-architecture-support)
+   - [OS and architecture support](#os-and-architecture-support)
      - [Android](#android)
      - [Apple](#apple)
      - [Dingux](#dingux)
@@ -10,13 +10,13 @@
      - [WebOS](#webos)
      - [Windows](#windows)
    - [For developers](#for-developers)
-     - [Core files](#core-files)
+     - [Libretro files](#libretro-files)
      - [Files without cores](#files-without-cores)
        - [Info files without cores](#info-files-without-cores)
        - [Document files without cores](#document-files-without-cores)
 
-### OS and architecture support
-#### Android
+## OS and architecture support
+### Android
 
 | Core | arm64-v8a | armeabi | armeabi-v7a | x86 | x86_64 |
 | --- | --- | --- | --- | --- | --- |
@@ -289,7 +289,7 @@
 | yabause | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/yabause_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/yabause_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/yabause_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/yabause_libretro_android.so.zip) |
 | ymir | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ymir_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/ymir_libretro_android.so.zip) |
 
-#### Apple
+### Apple
 
 | Core | iOS | iOS 9 | iOS arm64 | OSX arm64 | OSX ppc | OSX universal | OSX x86 | OSX x86_64 | tvOS arm64 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -562,7 +562,7 @@
 | yabause | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/yabause_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/yabause_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/yabause_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/yabause_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/yabause_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/yabause_libretro_tvos.dylib.zip) |
 | ymir | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/ymir_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/ymir_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/ymir_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/ymir_libretro.dylib.zip) |
 
-#### Dingux
+### Dingux
 
 | Core | mips32 | mips32 odbeta | miyoo arm32 | retrofw mips32 | rs90 mips32 odbeta |
 | --- | --- | --- | --- | --- | --- |
@@ -835,7 +835,7 @@
 | yabause | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ymir | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 
-#### Linux
+### Linux
 
 | Core | aarch64 | armhf | armv7 neon hf | x86 | x86_64 |
 | --- | --- | --- | --- | --- | --- |
@@ -1108,7 +1108,7 @@
 | yabause | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/yabause_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/yabause_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/yabause_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/yabause_libretro.so.zip) |
 | ymir | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/ymir_libretro.so.zip) |
 
-#### Nintendo
+### Nintendo
 
 | Core | 3DS (3dsx) | 3DS (cia) | GameCube | Switch (libnx) | Wii | Wii U |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1381,7 +1381,7 @@
 | yabause | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/yabause_libretro_libnx.nro.zip) | ❌ No | ❌ No |
 | ymir | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 
-#### PlayStation
+### PlayStation
 
 | Core | PS2 | PSP |
 | --- | --- | --- |
@@ -1654,7 +1654,7 @@
 | yabause | ❌ No | ❌ No |
 | ymir | ❌ No | ❌ No |
 
-#### WebOS
+### WebOS
 
 | Core | armv7a |
 | --- | --- |
@@ -1927,7 +1927,7 @@
 | yabause | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/yabause_libretro.so.zip) |
 | ymir | ❌ No |
 
-#### Windows
+### Windows
 
 | Core | x86 | x86_64 |
 | --- | --- | --- |
@@ -2203,7 +2203,7 @@
 
 ## For developers
 
-### Core Files
+### Libretro Files
 | Core | Has info | Has doc |
 |---|---|---|
 | 2048 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/2048_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/2048.md) |
