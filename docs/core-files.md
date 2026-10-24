@@ -174,6 +174,7 @@
 | openlara | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openlara_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openlara.md) |
 | opera | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/opera_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/opera.md) |
 | panda3ds | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/panda3ds_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/panda3ds.md) |
+| parallel_dc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/parallel_dc.md) |
 | parallel_n64 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/parallel_n64.md) |
 | pcee2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcee2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcee2.md) |
 | pcem | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcem_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcem.md) |

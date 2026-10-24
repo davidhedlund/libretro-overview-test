@@ -192,6 +192,7 @@
 | openlara | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openlara_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openlara.md) |
 | opera | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/opera_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/opera.md) |
 | panda3ds | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/panda3ds_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/panda3ds.md) |
+| parallel_dc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/parallel_dc.md) |
 | parallel_n64 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/parallel_n64.md) |
 | pcee2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcee2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcee2.md) |
 | pcem | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcem_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcem.md) |
@@ -466,6 +467,7 @@
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/openlara_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/openlara_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/openlara_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/openlara_libretro_android.so.zip) |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/opera_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/opera_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/opera_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/opera_libretro_android.so.zip) |
 | panda3ds | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/panda3ds_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
+| parallel_dc | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/parallel_dc_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/parallel_dc_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/parallel_dc_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/parallel_dc_libretro_android.so.zip) |
 | parallel_n64 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/parallel_n64_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/parallel_n64_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/parallel_n64_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/parallel_n64_libretro_android.so.zip) |
 | pcee2 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcee2_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/pcee2_libretro_android.so.zip) |
 | pcem | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -739,6 +741,7 @@
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/openlara_libretro.dylib.zip) | ❌ No |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/opera_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/opera_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/opera_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/opera_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/opera_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/opera_libretro_tvos.dylib.zip) |
 | panda3ds | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/panda3ds_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/panda3ds_libretro.dylib.zip) | ❌ No |
+| parallel_dc | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/parallel_dc_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/parallel_dc_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/parallel_dc_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/parallel_dc_libretro_tvos.dylib.zip) |
 | parallel_n64 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/parallel_n64_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/parallel_n64_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/parallel_n64_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/parallel_n64_libretro.dylib.zip) | ❌ No |
 | pcee2 | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcee2_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/pcee2_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/pcee2_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcee2_libretro.dylib.zip) |
 | pcem | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1012,6 +1015,7 @@
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | opera | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | panda3ds | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| parallel_dc | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | parallel_n64 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pcee2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pcem | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1285,6 +1289,7 @@
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/openlara_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/openlara_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/openlara_libretro.so.zip) |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/opera_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/opera_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/opera_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/opera_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/opera_libretro.so.zip) |
 | panda3ds | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/panda3ds_libretro.so.zip) |
+| parallel_dc | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/parallel_dc_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/parallel_dc_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/parallel_dc_libretro.so.zip) |
 | parallel_n64 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/parallel_n64_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/parallel_n64_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/parallel_n64_libretro.so.zip) |
 | pcee2 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pcee2_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pcee2_libretro.so.zip) |
 | pcem | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pcem_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pcem_libretro.so.zip) |
@@ -1558,6 +1563,7 @@
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/opera_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/opera_libretro.cia.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/opera_libretro_libnx.nro.zip) | ❌ No | ❌ No |
 | panda3ds | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| parallel_dc | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/parallel_dc_libretro_libnx.nro.zip) | ❌ No | ❌ No |
 | parallel_n64 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pcee2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pcem | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1831,6 +1837,7 @@
 | openlara | ❌ No | ❌ No |
 | opera | ❌ No | ❌ No |
 | panda3ds | ❌ No | ❌ No |
+| parallel_dc | ❌ No | ❌ No |
 | parallel_n64 | ❌ No | ❌ No |
 | pcee2 | ❌ No | ❌ No |
 | pcem | ❌ No | ❌ No |
@@ -2104,6 +2111,7 @@
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/openlara_libretro.so.zip) |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/opera_libretro.so.zip) |
 | panda3ds | ❌ No |
+| parallel_dc | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/parallel_dc_libretro.so.zip) |
 | parallel_n64 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/parallel_n64_libretro.so.zip) |
 | pcee2 | ❌ No |
 | pcem | ❌ No |
@@ -2377,6 +2385,7 @@
 | openlara | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/openlara_libretro.dll.zip) |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/opera_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/opera_libretro.dll.zip) |
 | panda3ds | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/panda3ds_libretro.dll.zip) |
+| parallel_dc | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/parallel_dc_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/parallel_dc_libretro.dll.zip) |
 | parallel_n64 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/parallel_n64_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/parallel_n64_libretro.dll.zip) |
 | pcee2 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pcee2_libretro.dll.zip) |
 | pcem | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pcem_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pcem_libretro.dll.zip) |
@@ -2519,7 +2528,6 @@
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
 | [open-source-notices.info_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/open-source-notices.info_libretro.info) |
 | [opentyrian_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/opentyrian_libretro.info) |
-| [parallel_dc_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [pascal_pong_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pascal_pong_libretro.info) |
 | [pcsx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx1_libretro.info) |

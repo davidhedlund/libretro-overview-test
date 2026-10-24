@@ -41,7 +41,6 @@
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
 | [open-source-notices.info_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/open-source-notices.info_libretro.info) |
 | [opentyrian_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/opentyrian_libretro.info) |
-| [parallel_dc_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [pascal_pong_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pascal_pong_libretro.info) |
 | [pcsx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx1_libretro.info) |
