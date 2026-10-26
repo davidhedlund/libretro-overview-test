@@ -2569,6 +2569,7 @@
 | [x16emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/x16emu_libretro.info) |
 | [x64sdl_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/x64sdl_libretro.info) |
 | [yaps2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/yaps2_libretro.info) |
+| [zcdi_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/zcdi_libretro.info) |
 | [zesarpcw_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/zesarpcw_libretro.info) |
 
 ### Document Files Without Cores
