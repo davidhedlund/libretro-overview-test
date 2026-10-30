@@ -16,6 +16,7 @@
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
+| [eduke32_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) |
 | [eka2l1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eka2l1_libretro.info) |
 | [emucv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emucv_libretro.info) |
 | [emux_chip8_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emux_chip8_libretro.info) |

@@ -254,7 +254,7 @@
 | tyrquake | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/tyrquake_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/tyrquake.md) |
 | uae4arm | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/uae4arm_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/uae4arm.md) |
 | uw8 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/uw8_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/uw8.md) |
-| uzdoom | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/uzdoom_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/uzdoom.md) |
+| uzdoom | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/uzdoom_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/uzdoom.md) |
 | uzem | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/uzem_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/uzem.md) |
 | vaporspec | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/vaporspec_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/vaporspec.md) |
 | vba_next | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/vba_next_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/vba_next.md) |
@@ -2512,6 +2512,7 @@
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
+| [eduke32_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) |
 | [eka2l1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eka2l1_libretro.info) |
 | [emucv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emucv_libretro.info) |
 | [emux_chip8_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emux_chip8_libretro.info) |
