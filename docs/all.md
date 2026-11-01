@@ -77,6 +77,7 @@
 | doukutsu_rs | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/doukutsu_rs_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/doukutsu_rs.md) |
 | easyrpg | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/easyrpg_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/easyrpg.md) |
 | ecwolf | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ecwolf_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/ecwolf.md) |
+| eduke32 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/eduke32.md) |
 | emuscv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/emuscv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/emuscv.md) |
 | ep128emu_core | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ep128emu_core_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/ep128emu_core.md) |
 | fbalpha | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/fbalpha_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/fbalpha.md) |
@@ -179,7 +180,7 @@
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
 | neocd | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/neocd_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/neocd.md) |
 | nestopia | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nestopia_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nestopia.md) |
-| nicaiemu | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
+| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
 | noods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/noods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/noods.md) |
 | np2kai | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/np2kai_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/np2kai.md) |
 | nside_sfc_balanced | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nside_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nside_sfc_balanced.md) |
@@ -223,7 +224,7 @@
 | retro8 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/retro8_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/retro8.md) |
 | romcleaner | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/romcleaner_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/romcleaner.md) |
 | rpcs3 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rpcs3_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/rpcs3.md) |
-| rust_dos | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/rust_dos_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/rust_dos.md) |
+| rust_dos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rust_dos_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/rust_dos.md) |
 | rustynes | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rustynes_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/rustynes.md) |
 | same_cdi | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/same_cdi_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/same_cdi.md) |
 | sameboy | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/sameboy_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/sameboy.md) |
@@ -353,6 +354,7 @@
 | doukutsu_rs | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/doukutsu_rs_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/doukutsu_rs_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/doukutsu_rs_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/doukutsu_rs_libretro_android.so.zip) |
 | easyrpg | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/easyrpg_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/easyrpg_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/easyrpg_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/easyrpg_libretro_android.so.zip) |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ecwolf_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/ecwolf_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/ecwolf_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/ecwolf_libretro_android.so.zip) |
+| eduke32 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/eduke32_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | emuscv | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/emuscv_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/emuscv_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/emuscv_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/emuscv_libretro_android.so.zip) |
 | ep128emu_core | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/ep128emu_core_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/ep128emu_core_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/ep128emu_core_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/ep128emu_core_libretro_android.so.zip) |
 | fbalpha | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/fbalpha_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/fbalpha_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/fbalpha_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/fbalpha_libretro_android.so.zip) |
@@ -628,6 +630,7 @@
 | doukutsu_rs | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/doukutsu_rs_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/doukutsu_rs_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/doukutsu_rs_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/doukutsu_rs_libretro.dylib.zip) |
 | easyrpg | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/easyrpg_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/easyrpg_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/easyrpg_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/easyrpg_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/easyrpg_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/easyrpg_libretro.dylib.zip) |
 | ecwolf | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/ecwolf_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/ecwolf_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/ecwolf_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/ecwolf_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/ecwolf_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/ecwolf_libretro_tvos.dylib.zip) |
+| eduke32 | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/eduke32_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/eduke32_libretro_tvos.dylib.zip) |
 | emuscv | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/emuscv_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/emuscv_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/emuscv_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/emuscv_libretro_tvos.dylib.zip) |
 | ep128emu_core | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/ep128emu_core_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/ep128emu_core_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/ep128emu_core_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/ep128emu_core_libretro_tvos.dylib.zip) |
 | fbalpha | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -903,6 +906,7 @@
 | doukutsu_rs | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | easyrpg | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/ecwolf_libretro.so.zip) |
+| eduke32 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | emuscv | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ep128emu_core | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | fbalpha | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1178,6 +1182,7 @@
 | doukutsu_rs | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/doukutsu_rs_libretro.so.zip) |
 | easyrpg | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/easyrpg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/easyrpg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/easyrpg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/easyrpg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/easyrpg_libretro.so.zip) |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/ecwolf_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/ecwolf_libretro.so.zip) |
+| eduke32 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/eduke32_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/eduke32_libretro.so.zip) |
 | emuscv | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/emuscv_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/emuscv_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/emuscv_libretro.so.zip) |
 | ep128emu_core | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/ep128emu_core_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/ep128emu_core_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/ep128emu_core_libretro.so.zip) |
 | fbalpha | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/fbalpha_libretro.so.zip) |
@@ -1234,7 +1239,7 @@
 | kronos | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/kronos_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/kronos_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/kronos_libretro.so.zip) |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/lowresnx_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/lowresnx_libretro.so.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/lutro_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/lutro_libretro.so.zip) |
-| m2000 | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/m2000_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/m2000_libretro.so.zip) |
+| m2000 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/m2000_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/m2000_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/m2000_libretro.so.zip) |
 | mame | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/mame_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/mame_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/mame_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/mame_libretro.so.zip) |
 | mame2000 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/mame2000_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/mame2000_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/mame2000_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/mame2000_libretro.so.zip) |
 | mame2003 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/mame2003_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/mame2003_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/mame2003_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/mame2003_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/mame2003_libretro.so.zip) |
@@ -1453,6 +1458,7 @@
 | doukutsu_rs | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | easyrpg | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/easyrpg_libretro_libnx.nro.zip) | ❌ No | ❌ No |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/ecwolf_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/ecwolf_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/ecwolf_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/ecwolf_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/ecwolf_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/ecwolf_libretro.rpx.zip) |
+| eduke32 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | emuscv | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ep128emu_core | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | fbalpha | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/fbalpha_libretro_libnx.nro.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/fbalpha_libretro.rpx.zip) |
@@ -1728,6 +1734,7 @@
 | doukutsu_rs | ❌ No | ❌ No |
 | easyrpg | ❌ No | ❌ No |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/ecwolf_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/ecwolf_libretro_psp.PBP.zip) |
+| eduke32 | ❌ No | ❌ No |
 | emuscv | ❌ No | ❌ No |
 | ep128emu_core | ❌ No | ❌ No |
 | fbalpha | ❌ No | ❌ No |
@@ -2003,6 +2010,7 @@
 | doukutsu_rs | ❌ No |
 | easyrpg | ❌ No |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/ecwolf_libretro.so.zip) |
+| eduke32 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/eduke32_libretro.so.zip) |
 | emuscv | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/emuscv_libretro.so.zip) |
 | ep128emu_core | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/ep128emu_core_libretro.so.zip) |
 | fbalpha | ❌ No |
@@ -2278,6 +2286,7 @@
 | doukutsu_rs | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/doukutsu_rs_libretro.dll.zip) |
 | easyrpg | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/easyrpg_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/easyrpg_libretro.dll.zip) |
 | ecwolf | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/ecwolf_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/ecwolf_libretro.dll.zip) |
+| eduke32 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/eduke32_libretro.dll.zip) |
 | emuscv | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/emuscv_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/emuscv_libretro.dll.zip) |
 | ep128emu_core | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/ep128emu_core_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/ep128emu_core_libretro.dll.zip) |
 | fbalpha | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/fbalpha_libretro.dll.zip) |
@@ -2512,7 +2521,6 @@
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
-| [eduke32_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) |
 | [eka2l1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/eka2l1_libretro.info) |
 | [emucv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emucv_libretro.info) |
 | [emux_chip8_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/emux_chip8_libretro.info) |

@@ -59,6 +59,7 @@
 | doukutsu_rs | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/doukutsu_rs_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/doukutsu_rs.md) |
 | easyrpg | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/easyrpg_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/easyrpg.md) |
 | ecwolf | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ecwolf_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/ecwolf.md) |
+| eduke32 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/eduke32_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/eduke32.md) |
 | emuscv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/emuscv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/emuscv.md) |
 | ep128emu_core | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ep128emu_core_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/ep128emu_core.md) |
 | fbalpha | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/fbalpha_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/fbalpha.md) |
@@ -161,7 +162,7 @@
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
 | neocd | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/neocd_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/neocd.md) |
 | nestopia | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nestopia_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nestopia.md) |
-| nicaiemu | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
+| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
 | noods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/noods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/noods.md) |
 | np2kai | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/np2kai_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/np2kai.md) |
 | nside_sfc_balanced | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nside_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nside_sfc_balanced.md) |
@@ -205,7 +206,7 @@
 | retro8 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/retro8_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/retro8.md) |
 | romcleaner | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/romcleaner_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/romcleaner.md) |
 | rpcs3 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rpcs3_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/rpcs3.md) |
-| rust_dos | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/rust_dos_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/rust_dos.md) |
+| rust_dos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rust_dos_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/rust_dos.md) |
 | rustynes | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/rustynes_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/rustynes.md) |
 | same_cdi | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/same_cdi_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/same_cdi.md) |
 | sameboy | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/sameboy_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/sameboy.md) |
