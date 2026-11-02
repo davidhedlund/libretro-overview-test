@@ -29,6 +29,7 @@
 | [freej2me_plus_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/freej2me_plus_libretro.info) |
 | [hyperscanemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) |
 | [imageviewer_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/imageviewer_libretro.info) |
+| [jgenesis_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/jgenesis_libretro.info) |
 | [mame2009_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mame2009_libretro.info) |
 | [mess2015_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mess2015_libretro.info) |
 | [mgba_splitscreen_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mgba_splitscreen_libretro.info) |

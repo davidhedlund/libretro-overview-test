@@ -58,7 +58,7 @@
 | citra | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/citra_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/citra.md) |
 | citra2018 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/citra2018_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/citra2018.md) |
 | clownmdemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/clownmdemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/clownmdemu.md) |
-| coolbaremu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/coolbaremu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/coolbaremu.md) |
+| coolbaremu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/coolbaremu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/coolbaremu.md) |
 | craft | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/craft_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/craft.md) |
 | crocods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/crocods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/crocods.md) |
 | daphne | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/daphne_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/daphne.md) |
@@ -132,6 +132,7 @@
 | jollycv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jollycv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jollycv.md) |
 | jumpnbump | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jumpnbump_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jumpnbump.md) |
 | kronos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/kronos_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/kronos.md) |
+| linuxloader | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
 | lowresnx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lowresnx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/lowresnx.md) |
 | lutro | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lutro_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/lutro.md) |
 | m2000 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/m2000_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/m2000.md) |
@@ -180,7 +181,7 @@
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
 | neocd | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/neocd_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/neocd.md) |
 | nestopia | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nestopia_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nestopia.md) |
-| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
+| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
 | noods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/noods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/noods.md) |
 | np2kai | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/np2kai_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/np2kai.md) |
 | nside_sfc_balanced | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nside_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nside_sfc_balanced.md) |
@@ -409,6 +410,7 @@
 | jollycv | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/jollycv_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/jollycv_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/jollycv_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/jollycv_libretro_android.so.zip) |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/jumpnbump_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/jumpnbump_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/jumpnbump_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/jumpnbump_libretro_android.so.zip) |
 | kronos | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| linuxloader | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/lowresnx_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/lowresnx_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/lowresnx_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/lowresnx_libretro_android.so.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/lutro_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/lutro_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/lutro_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/lutro_libretro_android.so.zip) |
 | m2000 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/m2000_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/m2000_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/m2000_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/m2000_libretro_android.so.zip) |
@@ -685,6 +687,7 @@
 | jollycv | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/jollycv_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/jollycv_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/jollycv_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/jollycv_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/jollycv_libretro_tvos.dylib.zip) |
 | jumpnbump | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/jumpnbump_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/jumpnbump_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/jumpnbump_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/jumpnbump_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/jumpnbump_libretro_tvos.dylib.zip) |
 | kronos | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| linuxloader | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | lowresnx | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/lowresnx_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/lowresnx_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/lowresnx_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/lowresnx_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/lowresnx_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/lowresnx_libretro_tvos.dylib.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/lutro_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/lutro_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/lutro_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/lutro_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/lutro_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/lutro_libretro_tvos.dylib.zip) |
 | m2000 | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/m2000_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/m2000_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/m2000_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/m2000_libretro_tvos.dylib.zip) |
@@ -961,6 +964,7 @@
 | jollycv | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/jumpnbump_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/jumpnbump_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/jumpnbump_libretro.so.zip) | ❌ No | ❌ No |
 | kronos | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| linuxloader | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/lowresnx_libretro.so.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/lutro_libretro.so.zip) |
 | m2000 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1237,6 +1241,7 @@
 | jollycv | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/jollycv_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/jollycv_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/jollycv_libretro.so.zip) |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/jumpnbump_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/jumpnbump_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/jumpnbump_libretro.so.zip) |
 | kronos | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/kronos_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/kronos_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/kronos_libretro.so.zip) |
+| linuxloader | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/linuxloader_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/linuxloader_libretro.so.zip) |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/lowresnx_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/lowresnx_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/lowresnx_libretro.so.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/lutro_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/lutro_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/lutro_libretro.so.zip) |
 | m2000 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/m2000_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/m2000_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/m2000_libretro.so.zip) |
@@ -1513,6 +1518,7 @@
 | jollycv | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/jumpnbump_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/jumpnbump_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/jumpnbump_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/jumpnbump_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/jumpnbump_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/jumpnbump_libretro.rpx.zip) |
 | kronos | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| linuxloader | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/lowresnx_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/lowresnx_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/lowresnx_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/lowresnx_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/lowresnx_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/lowresnx_libretro.rpx.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/lutro_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/lutro_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/lutro_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/lutro_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/lutro_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/lutro_libretro.rpx.zip) |
 | m2000 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1789,6 +1795,7 @@
 | jollycv | ❌ No | ❌ No |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/jumpnbump_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/jumpnbump_libretro_psp.PBP.zip) |
 | kronos | ❌ No | ❌ No |
+| linuxloader | ❌ No | ❌ No |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/lowresnx_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/lowresnx_libretro_psp.PBP.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/lutro_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/lutro_libretro_psp.PBP.zip) |
 | m2000 | ❌ No | ❌ No |
@@ -2065,6 +2072,7 @@
 | jollycv | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/jollycv_libretro.so.zip) |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/jumpnbump_libretro.so.zip) |
 | kronos | ❌ No |
+| linuxloader | ❌ No |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/lowresnx_libretro.so.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/lutro_libretro.so.zip) |
 | m2000 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/m2000_libretro.so.zip) |
@@ -2341,6 +2349,7 @@
 | jollycv | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/jollycv_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/jollycv_libretro.dll.zip) |
 | jumpnbump | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/jumpnbump_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/jumpnbump_libretro.dll.zip) |
 | kronos | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/kronos_libretro.dll.zip) |
+| linuxloader | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/linuxloader_libretro.dll.zip) |
 | lowresnx | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/lowresnx_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/lowresnx_libretro.dll.zip) |
 | lutro | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/lutro_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/lutro_libretro.dll.zip) |
 | m2000 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/m2000_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/m2000_libretro.dll.zip) |
@@ -2534,6 +2543,7 @@
 | [freej2me_plus_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/freej2me_plus_libretro.info) |
 | [hyperscanemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) |
 | [imageviewer_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/imageviewer_libretro.info) |
+| [jgenesis_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/jgenesis_libretro.info) |
 | [mame2009_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mame2009_libretro.info) |
 | [mess2015_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mess2015_libretro.info) |
 | [mgba_splitscreen_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mgba_splitscreen_libretro.info) |
@@ -2640,6 +2650,7 @@
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
+| [piece.md](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |

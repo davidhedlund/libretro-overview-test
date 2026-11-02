@@ -40,7 +40,7 @@
 | citra | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/citra_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/citra.md) |
 | citra2018 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/citra2018_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/citra2018.md) |
 | clownmdemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/clownmdemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/clownmdemu.md) |
-| coolbaremu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/coolbaremu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/coolbaremu.md) |
+| coolbaremu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/coolbaremu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/coolbaremu.md) |
 | craft | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/craft_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/craft.md) |
 | crocods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/crocods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/crocods.md) |
 | daphne | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/daphne_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/daphne.md) |
@@ -114,6 +114,7 @@
 | jollycv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jollycv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jollycv.md) |
 | jumpnbump | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jumpnbump_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jumpnbump.md) |
 | kronos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/kronos_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/kronos.md) |
+| linuxloader | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
 | lowresnx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lowresnx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/lowresnx.md) |
 | lutro | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lutro_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/lutro.md) |
 | m2000 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/m2000_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/m2000.md) |
@@ -162,7 +163,7 @@
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
 | neocd | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/neocd_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/neocd.md) |
 | nestopia | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nestopia_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nestopia.md) |
-| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
+| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
 | noods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/noods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/noods.md) |
 | np2kai | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/np2kai_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/np2kai.md) |
 | nside_sfc_balanced | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nside_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nside_sfc_balanced.md) |

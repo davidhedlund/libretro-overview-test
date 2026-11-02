@@ -46,6 +46,7 @@
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
+| [piece.md](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |
