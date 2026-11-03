@@ -174,6 +174,7 @@
 | oberon | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/oberon_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/oberon.md) |
 | omicron | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/omicron_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/omicron.md) |
 | openlara | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openlara_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openlara.md) |
+| openmsx | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/openmsx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/openmsx.md) |
 | opera | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/opera_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/opera.md) |
 | panda3ds | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/panda3ds_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/panda3ds.md) |
 | parallel_dc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/parallel_dc.md) |
