@@ -37,6 +37,7 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
+| [n64emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
@@ -45,6 +46,7 @@
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |
+| [parallel_xbox360_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox360_libretro.info) |
 | [pascal_pong_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pascal_pong_libretro.info) |
 | [pcsx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx1_libretro.info) |
 | [pcsx_rearmed_interpreter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_interpreter_libretro.info) |
@@ -79,6 +81,7 @@
 | [trident_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/trident_libretro.info) |
 | [ume2015_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/ume2015_libretro.info) |
 | [uxn_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/uxn_libretro.info) |
+| [v_bear_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/v_bear_libretro.info) |
 | [vice_x64dtv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vice_x64dtv_libretro.info) |
 | [vidtest_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vidtest_libretro.info) |
 | [vitavoyager_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vitavoyager_libretro.info) |

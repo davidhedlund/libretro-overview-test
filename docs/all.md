@@ -132,7 +132,7 @@
 | jollycv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jollycv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jollycv.md) |
 | jumpnbump | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jumpnbump_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jumpnbump.md) |
 | kronos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/kronos_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/kronos.md) |
-| linuxloader | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
+| linuxloader | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
 | lowresnx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lowresnx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/lowresnx.md) |
 | lutro | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lutro_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/lutro.md) |
 | m2000 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/m2000_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/m2000.md) |
@@ -181,7 +181,7 @@
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
 | neocd | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/neocd_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/neocd.md) |
 | nestopia | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nestopia_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nestopia.md) |
-| nicaiemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
+| nicaiemu | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/nicaiemu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nicaiemu.md) |
 | noods | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/noods_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/noods.md) |
 | np2kai | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/np2kai_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/np2kai.md) |
 | nside_sfc_balanced | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nside_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/nside_sfc_balanced.md) |
@@ -190,9 +190,10 @@
 | nxengine | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nxengine_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nxengine.md) |
 | o2em | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/o2em_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/o2em.md) |
 | oberon | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/oberon_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/oberon.md) |
+| odin | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/odin_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/odin.md) |
 | omicron | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/omicron_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/omicron.md) |
 | openlara | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openlara_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openlara.md) |
-| openmsx | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/openmsx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/openmsx.md) |
+| openmsx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openmsx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/openmsx.md) |
 | opera | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/opera_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/opera.md) |
 | panda3ds | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/panda3ds_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/panda3ds.md) |
 | parallel_dc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/parallel_dc.md) |
@@ -469,9 +470,10 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/nxengine_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/nxengine_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/nxengine_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/nxengine_libretro_android.so.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/o2em_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/o2em_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/o2em_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/o2em_libretro_android.so.zip) |
 | oberon | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/oberon_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/oberon_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/oberon_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/oberon_libretro_android.so.zip) |
+| odin | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | omicron | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/openlara_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/openlara_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/openlara_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/openlara_libretro_android.so.zip) |
-| openmsx | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| openmsx | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/openmsx_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | opera | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/opera_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/opera_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/opera_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/opera_libretro_android.so.zip) |
 | panda3ds | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/panda3ds_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | parallel_dc | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/parallel_dc_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/parallel_dc_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/parallel_dc_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/parallel_dc_libretro_android.so.zip) |
@@ -747,6 +749,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/nxengine_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/nxengine_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/nxengine_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/nxengine_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/nxengine_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/nxengine_libretro_tvos.dylib.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/o2em_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/o2em_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/o2em_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/o2em_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/o2em_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/o2em_libretro_tvos.dylib.zip) |
 | oberon | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/oberon_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/oberon_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/oberon_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/oberon_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/oberon_libretro_tvos.dylib.zip) |
+| odin | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | omicron | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/openlara_libretro.dylib.zip) | ❌ No |
 | openmsx | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/openmsx_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/openmsx_libretro.dylib.zip) | ❌ No |
@@ -1025,6 +1028,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/nxengine_libretro.so.zip) | ❌ No |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/o2em_libretro.so.zip) | ❌ No |
 | oberon | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| odin | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | omicron | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openmsx | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1303,6 +1307,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/nxengine_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/nxengine_libretro.so.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/o2em_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/o2em_libretro.so.zip) |
 | oberon | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/oberon_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/oberon_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/oberon_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/oberon_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/oberon_libretro.so.zip) |
+| odin | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/odin_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/odin_libretro.so.zip) |
 | omicron | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/omicron_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/omicron_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/omicron_libretro.so.zip) |
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/openlara_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/openlara_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/openlara_libretro.so.zip) |
 | openmsx | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/openmsx_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/openmsx_libretro.so.zip) |
@@ -1581,6 +1586,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/nxengine_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/nxengine_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/nxengine_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/nxengine_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/nxengine_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/nxengine_libretro.rpx.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/o2em_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/o2em_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/o2em_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/o2em_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/o2em_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/o2em_libretro.rpx.zip) |
 | oberon | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/oberon_libretro.rpx.zip) |
+| odin | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | omicron | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openlara | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | openmsx | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1859,6 +1865,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/nxengine_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/nxengine_libretro_psp.PBP.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/o2em_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/o2em_libretro_psp.PBP.zip) |
 | oberon | ❌ No | ❌ No |
+| odin | ❌ No | ❌ No |
 | omicron | ❌ No | ❌ No |
 | openlara | ❌ No | ❌ No |
 | openmsx | ❌ No | ❌ No |
@@ -2137,6 +2144,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/nxengine_libretro.so.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/o2em_libretro.so.zip) |
 | oberon | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/oberon_libretro.so.zip) |
+| odin | ❌ No |
 | omicron | ❌ No |
 | openlara | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/openlara_libretro.so.zip) |
 | openmsx | ❌ No |
@@ -2415,6 +2423,7 @@
 | nxengine | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/nxengine_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/nxengine_libretro.dll.zip) |
 | o2em | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/o2em_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/o2em_libretro.dll.zip) |
 | oberon | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/oberon_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/oberon_libretro.dll.zip) |
+| odin | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/odin_libretro.dll.zip) |
 | omicron | ❌ No | ❌ No |
 | openlara | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/openlara_libretro.dll.zip) |
 | openmsx | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/openmsx_libretro.dll.zip) |
@@ -2560,6 +2569,7 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
+| [n64emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
@@ -2568,6 +2578,7 @@
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |
+| [parallel_xbox360_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox360_libretro.info) |
 | [pascal_pong_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pascal_pong_libretro.info) |
 | [pcsx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx1_libretro.info) |
 | [pcsx_rearmed_interpreter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_interpreter_libretro.info) |
@@ -2602,6 +2613,7 @@
 | [trident_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/trident_libretro.info) |
 | [ume2015_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/ume2015_libretro.info) |
 | [uxn_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/uxn_libretro.info) |
+| [v_bear_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/v_bear_libretro.info) |
 | [vice_x64dtv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vice_x64dtv_libretro.info) |
 | [vidtest_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vidtest_libretro.info) |
 | [vitavoyager_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vitavoyager_libretro.info) |
