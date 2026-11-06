@@ -107,6 +107,7 @@
 | higan_sfc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/higan_sfc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/higan_sfc.md) |
 | higan_sfc_balanced | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/higan_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/higan_sfc_balanced.md) |
 | holani | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/holani_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/holani.md) |
+| hyperscanemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/hyperscanemu.md) |
 | hypseushw | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/hypseushw_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/hypseushw.md) |
 | irogb | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/irogb_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/irogb.md) |
 | ishiiruka | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ishiiruka_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/ishiiruka.md) |
@@ -186,6 +187,7 @@
 | pcsx_rearmed | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcsx_rearmed.md) |
 | pd777 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pd777_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pd777.md) |
 | picodrive | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/picodrive_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/picodrive.md) |
+| piece | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/piece_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | play | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/play_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/play.md) |
 | playdiaemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/playdiaemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/playdiaemu.md) |
 | pocketcdg | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pocketcdg_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pocketcdg.md) |

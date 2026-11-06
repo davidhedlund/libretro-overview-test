@@ -125,6 +125,7 @@
 | higan_sfc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/higan_sfc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/higan_sfc.md) |
 | higan_sfc_balanced | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/higan_sfc_balanced_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/higan_sfc_balanced.md) |
 | holani | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/holani_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/holani.md) |
+| hyperscanemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/hyperscanemu.md) |
 | hypseushw | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/hypseushw_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/hypseushw.md) |
 | irogb | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/irogb_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/irogb.md) |
 | ishiiruka | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/ishiiruka_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/ishiiruka.md) |
@@ -204,6 +205,7 @@
 | pcsx_rearmed | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pcsx_rearmed.md) |
 | pd777 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pd777_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pd777.md) |
 | picodrive | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/picodrive_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/picodrive.md) |
+| piece | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/piece_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | play | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/play_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/play.md) |
 | playdiaemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/playdiaemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/playdiaemu.md) |
 | pocketcdg | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/pocketcdg_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/pocketcdg.md) |
@@ -405,6 +407,7 @@
 | higan_sfc | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/holani_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/holani_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/holani_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/holani_libretro_android.so.zip) |
+| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/hyperscanemu_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/hyperscanemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/hyperscanemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/hyperscanemu_libretro_android.so.zip) |
 | hypseushw | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/hypseushw_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | irogb | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/irogb_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -484,6 +487,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pcsx_rearmed_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pcsx_rearmed_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/pcsx_rearmed_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/pcsx_rearmed_libretro_android.so.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pd777_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pd777_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/pd777_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/pd777_libretro_android.so.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/picodrive_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/picodrive_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/picodrive_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/picodrive_libretro_android.so.zip) |
+| piece | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/piece_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/piece_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/piece_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/piece_libretro_android.so.zip) |
 | play | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/play_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/play_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/play_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/play_libretro_android.so.zip) |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/playdiaemu_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/playdiaemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/playdiaemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/playdiaemu_libretro_android.so.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/pocketcdg_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/pocketcdg_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/pocketcdg_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/pocketcdg_libretro_android.so.zip) |
@@ -684,6 +688,7 @@
 | higan_sfc | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/higan_sfc_libretro.dylib.zip) | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | holani | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/holani_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/holani_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/holani_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/holani_libretro.dylib.zip) |
+| hyperscanemu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/hyperscanemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/hyperscanemu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/hyperscanemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/hyperscanemu_libretro.dylib.zip) |
 | hypseushw | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | irogb | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/irogb_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/irogb_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/irogb_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/irogb_libretro.dylib.zip) |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/ishiiruka_libretro.dylib.zip) | ❌ No |
@@ -763,6 +768,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/pcsx_rearmed_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/pcsx_rearmed_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pcsx_rearmed_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/pcsx_rearmed_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/pcsx_rearmed_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pcsx_rearmed_libretro_tvos.dylib.zip) |
 | pd777 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/pd777_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pd777_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/pd777_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/pd777_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pd777_libretro_tvos.dylib.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/picodrive_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/picodrive_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/picodrive_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/picodrive_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/picodrive_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/picodrive_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/picodrive_libretro_tvos.dylib.zip) |
+| piece | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/piece_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/piece_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/piece_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/piece_libretro.dylib.zip) |
 | play | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/play_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/play_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/play_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/play_libretro_tvos.dylib.zip) |
 | playdiaemu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/playdiaemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/playdiaemu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/playdiaemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/playdiaemu_libretro.dylib.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/pocketcdg_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/pocketcdg_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/pocketcdg_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/pocketcdg_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/pocketcdg_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/pocketcdg_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/pocketcdg_libretro_tvos.dylib.zip) |
@@ -963,6 +969,7 @@
 | higan_sfc | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | holani | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| hyperscanemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | hypseushw | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | irogb | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1042,6 +1049,7 @@
 | pcsx_rearmed | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/pcsx_rearmed_libretro.so.zip) | ❌ No | ❌ No |
 | pd777 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/pd777_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/pd777_libretro.so.zip) | ❌ No | ❌ No |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/picodrive_libretro.so.zip) |
+| piece | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | play | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | playdiaemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/pocketcdg_libretro.so.zip) |
@@ -1242,6 +1250,7 @@
 | higan_sfc | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/higan_sfc_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/higan_sfc_libretro.so.zip) | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/higan_sfc_balanced_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/higan_sfc_balanced_libretro.so.zip) | ❌ No | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/holani_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/holani_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/holani_libretro.so.zip) |
+| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/hyperscanemu_libretro.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | hypseushw | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/hypseushw_libretro.so.zip) |
 | irogb | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/irogb_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/irogb_libretro.so.zip) |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1321,6 +1330,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pcsx_rearmed_libretro.so.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pd777_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pd777_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pd777_libretro.so.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/picodrive_libretro.so.zip) |
+| piece | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/piece_libretro.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
 | play | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/play_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/play_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/play_libretro.so.zip) |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/playdiaemu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/playdiaemu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/playdiaemu_libretro.so.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/pocketcdg_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pocketcdg_libretro.so.zip) |
@@ -1521,6 +1531,7 @@
 | higan_sfc | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | holani | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| hyperscanemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | hypseushw | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | irogb | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1600,6 +1611,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/pcsx_rearmed_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/pcsx_rearmed_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/pcsx_rearmed_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/pcsx_rearmed_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/pcsx_rearmed_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/pcsx_rearmed_libretro.rpx.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/pd777_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/pd777_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/pd777_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/pd777_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/pd777_libretro_wii.dol.zip) | ❌ No |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/picodrive_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/picodrive_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/picodrive_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/picodrive_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/picodrive_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/picodrive_libretro.rpx.zip) |
+| piece | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | play | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | playdiaemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/pocketcdg_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/pocketcdg_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/pocketcdg_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/pocketcdg_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/pocketcdg_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/pocketcdg_libretro.rpx.zip) |
@@ -1800,6 +1812,7 @@
 | higan_sfc | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No |
 | holani | ❌ No | ❌ No |
+| hyperscanemu | ❌ No | ❌ No |
 | hypseushw | ❌ No | ❌ No |
 | irogb | ❌ No | ❌ No |
 | ishiiruka | ❌ No | ❌ No |
@@ -1879,6 +1892,7 @@
 | pcsx_rearmed | ❌ No | ❌ No |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/pd777_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/pd777_libretro_psp.PBP.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/picodrive_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/picodrive_libretro_psp.PBP.zip) |
+| piece | ❌ No | ❌ No |
 | play | ❌ No | ❌ No |
 | playdiaemu | ❌ No | ❌ No |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/pocketcdg_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/pocketcdg_libretro_psp.PBP.zip) |
@@ -2079,6 +2093,7 @@
 | higan_sfc | ❌ No |
 | higan_sfc_balanced | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/holani_libretro.so.zip) |
+| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/hyperscanemu_libretro.so.zip) |
 | hypseushw | ❌ No |
 | irogb | ❌ No |
 | ishiiruka | ❌ No |
@@ -2158,6 +2173,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/pcsx_rearmed_libretro.so.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/pd777_libretro.so.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/picodrive_libretro.so.zip) |
+| piece | ❌ No |
 | play | ❌ No |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/playdiaemu_libretro.so.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/pocketcdg_libretro.so.zip) |
@@ -2358,6 +2374,7 @@
 | higan_sfc | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/holani_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/holani_libretro.dll.zip) |
+| hyperscanemu | ❌ No | ❌ No |
 | hypseushw | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/hypseushw_libretro.dll.zip) |
 | irogb | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/irogb_libretro.dll.zip) |
 | ishiiruka | ❌ No | ❌ No |
@@ -2437,6 +2454,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pcsx_rearmed_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pcsx_rearmed_libretro.dll.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pd777_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pd777_libretro.dll.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/picodrive_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/picodrive_libretro.dll.zip) |
+| piece | ❌ No | ❌ No |
 | play | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/play_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/play_libretro.dll.zip) |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/playdiaemu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/playdiaemu_libretro.dll.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pocketcdg_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pocketcdg_libretro.dll.zip) |
@@ -2559,7 +2577,6 @@
 | [flycast_gles2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/flycast_gles2_libretro.info) |
 | [freej2me_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/freej2me_libretro.info) |
 | [freej2me_plus_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/freej2me_plus_libretro.info) |
-| [hyperscanemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/hyperscanemu_libretro.info) |
 | [imageviewer_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/imageviewer_libretro.info) |
 | [jgenesis_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/jgenesis_libretro.info) |
 | [mame2009_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mame2009_libretro.info) |
@@ -2575,7 +2592,7 @@
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
 | [open-source-notices.info_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/open-source-notices.info_libretro.info) |
 | [opentyrian_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/opentyrian_libretro.info) |
-| [parallel_gamecubewii_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gamecubewii_libretro.info) |
+| [parallel_gx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx1_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |
@@ -2584,7 +2601,6 @@
 | [pcsx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx1_libretro.info) |
 | [pcsx_rearmed_interpreter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_interpreter_libretro.info) |
 | [pcsx_rearmed_neon_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/pcsx_rearmed_neon_libretro.info) |
-| [piece_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/piece_libretro.info) |
 | [puzzlescript_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/puzzlescript_libretro.info) |
 | [redbook_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/redbook_libretro.info) |
 | [retrodream_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/retrodream_libretro.info) |
@@ -2657,7 +2673,6 @@
 | [freej2me_plus.md](https://github.com/libretro/docs/tree/master/docs/library/freej2me_plus.md) |
 | [game_music_emu.md](https://github.com/libretro/docs/tree/master/docs/library/game_music_emu.md) |
 | [higan_accuracy.md](https://github.com/libretro/docs/tree/master/docs/library/higan_accuracy.md) |
-| [hyperscanemu.md](https://github.com/libretro/docs/tree/master/docs/library/hyperscanemu.md) |
 | [imageviewer.md](https://github.com/libretro/docs/tree/master/docs/library/imageviewer.md) |
 | [lowres_nx.md](https://github.com/libretro/docs/tree/master/docs/library/lowres_nx.md) |
 | [lrps2.md](https://github.com/libretro/docs/tree/master/docs/library/lrps2.md) |
@@ -2672,7 +2687,6 @@
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
-| [piece.md](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |

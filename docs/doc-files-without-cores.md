@@ -31,7 +31,6 @@
 | [freej2me_plus.md](https://github.com/libretro/docs/tree/master/docs/library/freej2me_plus.md) |
 | [game_music_emu.md](https://github.com/libretro/docs/tree/master/docs/library/game_music_emu.md) |
 | [higan_accuracy.md](https://github.com/libretro/docs/tree/master/docs/library/higan_accuracy.md) |
-| [hyperscanemu.md](https://github.com/libretro/docs/tree/master/docs/library/hyperscanemu.md) |
 | [imageviewer.md](https://github.com/libretro/docs/tree/master/docs/library/imageviewer.md) |
 | [lowres_nx.md](https://github.com/libretro/docs/tree/master/docs/library/lowres_nx.md) |
 | [lrps2.md](https://github.com/libretro/docs/tree/master/docs/library/lrps2.md) |
@@ -46,7 +45,6 @@
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
-| [piece.md](https://github.com/libretro/docs/tree/master/docs/library/piece.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |
