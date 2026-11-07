@@ -952,7 +952,7 @@
 | higan_sfc | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/higan_sfc_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/higan_sfc_libretro.so.zip) | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/higan_sfc_balanced_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/higan_sfc_balanced_libretro.so.zip) | ❌ No | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/holani_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/holani_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/holani_libretro.so.zip) |
-| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/hyperscanemu_libretro.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
+| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/hyperscanemu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/hyperscanemu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/hyperscanemu_libretro.so.zip) |
 | hypseushw | ❌ No | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/hypseushw_libretro.so.zip) |
 | irogb | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/irogb_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/irogb_libretro.so.zip) |
 | ishiiruka | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1032,7 +1032,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pcsx_rearmed_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pcsx_rearmed_libretro.so.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pd777_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pd777_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pd777_libretro.so.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/picodrive_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/picodrive_libretro.so.zip) |
-| piece | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/piece_libretro.so.zip) | ❌ No | ❌ No | ❌ No | ❌ No |
+| piece | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/piece_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/piece_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/piece_libretro.so.zip) |
 | play | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/play_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/play_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/play_libretro.so.zip) |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/playdiaemu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/playdiaemu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/playdiaemu_libretro.so.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/pocketcdg_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/pocketcdg_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/pocketcdg_libretro.so.zip) |
@@ -2076,7 +2076,7 @@
 | higan_sfc | ❌ No | ❌ No |
 | higan_sfc_balanced | ❌ No | ❌ No |
 | holani | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/holani_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/holani_libretro.dll.zip) |
-| hyperscanemu | ❌ No | ❌ No |
+| hyperscanemu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/hyperscanemu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/hyperscanemu_libretro.dll.zip) |
 | hypseushw | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/hypseushw_libretro.dll.zip) |
 | irogb | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/irogb_libretro.dll.zip) |
 | ishiiruka | ❌ No | ❌ No |
@@ -2156,7 +2156,7 @@
 | pcsx_rearmed | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pcsx_rearmed_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pcsx_rearmed_libretro.dll.zip) |
 | pd777 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pd777_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pd777_libretro.dll.zip) |
 | picodrive | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/picodrive_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/picodrive_libretro.dll.zip) |
-| piece | ❌ No | ❌ No |
+| piece | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/piece_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/piece_libretro.dll.zip) |
 | play | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/play_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/play_libretro.dll.zip) |
 | playdiaemu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/playdiaemu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/playdiaemu_libretro.dll.zip) |
 | pocketcdg | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/pocketcdg_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/pocketcdg_libretro.dll.zip) |
