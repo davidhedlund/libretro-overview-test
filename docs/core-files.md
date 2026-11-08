@@ -159,6 +159,7 @@
 | mupen64plus_next | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next.md) |
 | mupen64plus_next_gles2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_gles2_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next_gles2.md) |
 | mupen64plus_next_gles3 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_gles3_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next_gles3.md) |
+| n64emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/n64emu.md) |
 | na | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/na_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/na.md) |
 | native32emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/native32emu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/native32emu.md) |
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |

@@ -36,13 +36,13 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
-| [n64emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
 | [open-source-notices.info_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/open-source-notices.info_libretro.info) |
 | [opentyrian_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/opentyrian_libretro.info) |
 | [parallel_gx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx1_libretro.info) |
+| [parallel_gx2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx2_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |

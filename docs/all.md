@@ -177,6 +177,7 @@
 | mupen64plus_next | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next.md) |
 | mupen64plus_next_gles2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_gles2_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next_gles2.md) |
 | mupen64plus_next_gles3 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_gles3_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus_next_gles3.md) |
+| n64emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/n64emu.md) |
 | na | [❌ No](https://github.com/libretro/libretro-super/tree/master/dist/info/na_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/na.md) |
 | native32emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/native32emu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/native32emu.md) |
 | nekop2 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nekop2_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nekop2.md) |
@@ -459,6 +460,7 @@
 | mupen64plus_next | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles2 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mupen64plus_next_gles2_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mupen64plus_next_gles2_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/mupen64plus_next_gles2_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/mupen64plus_next_gles2_libretro_android.so.zip) |
 | mupen64plus_next_gles3 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/mupen64plus_next_gles3_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/mupen64plus_next_gles3_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/mupen64plus_next_gles3_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/mupen64plus_next_gles3_libretro_android.so.zip) |
+| n64emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | na | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/na_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/na_libretro_android.so.zip) |
 | native32emu | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/native32emu_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/native32emu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/native32emu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/native32emu_libretro_android.so.zip) |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/nekop2_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/nekop2_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/nekop2_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/nekop2_libretro_android.so.zip) |
@@ -740,6 +742,7 @@
 | mupen64plus_next | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/mupen64plus_next_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/mupen64plus_next_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/mupen64plus_next_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/mupen64plus_next_libretro_tvos.dylib.zip) |
 | mupen64plus_next_gles2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| n64emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | na | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | native32emu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/native32emu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/native32emu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/native32emu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/native32emu_libretro.dylib.zip) |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/nekop2_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/nekop2_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/nekop2_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/nekop2_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/nekop2_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/nekop2_libretro_tvos.dylib.zip) |
@@ -1021,6 +1024,7 @@
 | mupen64plus_next | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| n64emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | na | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | native32emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | nekop2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
@@ -1302,6 +1306,7 @@
 | mupen64plus_next | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/mupen64plus_next_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/mupen64plus_next_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/mupen64plus_next_libretro.so.zip) |
 | mupen64plus_next_gles2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| n64emu | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/n64emu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/n64emu_libretro.so.zip) |
 | na | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | native32emu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/native32emu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/native32emu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/native32emu_libretro.so.zip) |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/nekop2_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/nekop2_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/nekop2_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/nekop2_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/nekop2_libretro.so.zip) |
@@ -1583,6 +1588,7 @@
 | mupen64plus_next | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/mupen64plus_next_libretro_libnx.nro.zip) | ❌ No | ❌ No |
 | mupen64plus_next_gles2 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
+| n64emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | na | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | native32emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/nekop2_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/nekop2_libretro.cia.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/nekop2_libretro.rpx.zip) |
@@ -1864,6 +1870,7 @@
 | mupen64plus_next | ❌ No | ❌ No |
 | mupen64plus_next_gles2 | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No |
+| n64emu | ❌ No | ❌ No |
 | na | ❌ No | ❌ No |
 | native32emu | ❌ No | ❌ No |
 | nekop2 | ❌ No | ❌ No |
@@ -2145,6 +2152,7 @@
 | mupen64plus_next | ❌ No |
 | mupen64plus_next_gles2 | ❌ No |
 | mupen64plus_next_gles3 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/mupen64plus_next_gles3_libretro.so.zip) |
+| n64emu | ❌ No |
 | na | ❌ No |
 | native32emu | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/native32emu_libretro.so.zip) |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/nekop2_libretro.so.zip) |
@@ -2426,6 +2434,7 @@
 | mupen64plus_next | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/mupen64plus_next_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/mupen64plus_next_libretro.dll.zip) |
 | mupen64plus_next_gles2 | ❌ No | ❌ No |
 | mupen64plus_next_gles3 | ❌ No | ❌ No |
+| n64emu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/n64emu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/n64emu_libretro.dll.zip) |
 | na | ❌ No | ❌ No |
 | native32emu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/native32emu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/native32emu_libretro.dll.zip) |
 | nekop2 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/nekop2_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/nekop2_libretro.dll.zip) |
@@ -2586,13 +2595,13 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
-| [n64emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/n64emu_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
 | [open-source-notices.info_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/open-source-notices.info_libretro.info) |
 | [opentyrian_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/opentyrian_libretro.info) |
 | [parallel_gx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx1_libretro.info) |
+| [parallel_gx2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx2_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |
