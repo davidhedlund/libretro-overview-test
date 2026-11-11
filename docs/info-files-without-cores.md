@@ -44,6 +44,8 @@
 | [parallel_gx1_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx1_libretro.info) |
 | [parallel_gx2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_gx2_libretro.info) |
 | [parallel_n64_debug_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_n64_debug_libretro.info) |
+| [parallel_ps3_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_ps3_libretro.info) |
+| [parallel_ps4_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_ps4_libretro.info) |
 | [parallel_psp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_psp_libretro.info) |
 | [parallel_xbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox_libretro.info) |
 | [parallel_xbox360_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_xbox360_libretro.info) |
