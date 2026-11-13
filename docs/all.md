@@ -290,6 +290,7 @@
 | wasm4 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/wasm4_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/wasm4.md) |
 | wqxemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/wqxemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/wqxemu.md) |
 | x1 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/x1_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/x1.md) |
+| x16emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/x16emu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/x16emu.md) |
 | xemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xemu.md) |
 | xenia_edge | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xenia_edge_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xenia_edge.md) |
 | xrick | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xrick_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xrick.md) |
@@ -573,6 +574,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/wasm4_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/wasm4_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/wasm4_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/wasm4_libretro_android.so.zip) |
 | wqxemu | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/wqxemu_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/wqxemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/wqxemu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/wqxemu_libretro_android.so.zip) |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/x1_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/x1_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/x1_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/x1_libretro_android.so.zip) |
+| x16emu | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/x16emu_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/x16emu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/x16emu_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/x16emu_libretro_android.so.zip) |
 | xemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xenia_edge | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/xenia_edge_libretro_android.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/xenia_edge_libretro_android.so.zip) |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/arm64-v8a/xrick_libretro_android.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/xrick_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86/xrick_libretro_android.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/android/latest/x86_64/xrick_libretro_android.so.zip) |
@@ -855,6 +857,7 @@
 | wasm4 | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/wasm4_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/wasm4_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/wasm4_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/wasm4_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/wasm4_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/wasm4_libretro.dylib.zip) |
 | wqxemu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/wqxemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/wqxemu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/wqxemu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/wqxemu_libretro.dylib.zip) |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/x1_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/x1_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/x1_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/x1_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/ppc/latest/x1_libretro.dylib.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/x1_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/x1_libretro_tvos.dylib.zip) |
+| x16emu | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/x16emu_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/x16emu_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/x16emu_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/x16emu_libretro_tvos.dylib.zip) |
 | xemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xenia_edge | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios/latest/xrick_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios9/latest/xrick_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/ios-arm64/latest/xrick_libretro_ios.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/arm64/latest/xrick_libretro.dylib.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/apple/osx/x86_64/latest/xrick_libretro.dylib.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/apple/tvos-arm64/latest/xrick_libretro_tvos.dylib.zip) |
@@ -1137,6 +1140,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/wasm4_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/wasm4_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/wasm4_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/wasm4_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/wasm4_libretro.so.zip) |
 | wqxemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/retrofw-mips32/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/rs90-mips32-odbeta/latest/x1_libretro.so.zip) |
+| x16emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xenia_edge | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32/latest/xrick_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/mips32-odbeta/latest/xrick_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/dingux/miyoo-arm32/latest/xrick_libretro.so.zip) | ❌ No | ❌ No |
@@ -1419,6 +1423,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/wasm4_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/wasm4_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/wasm4_libretro.so.zip) |
 | wqxemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/wqxemu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/wqxemu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/wqxemu_libretro.so.zip) |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armv7-neon-hf/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/x1_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/x1_libretro.so.zip) |
+| x16emu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/x16emu_libretro.so.zip) | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/x16emu_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/x16emu_libretro.so.zip) |
 | xemu | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/xemu_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/xemu_libretro.so.zip) |
 | xenia_edge | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/xenia_edge_libretro.so.zip) | ❌ No | ❌ No | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/xenia_edge_libretro.so.zip) |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/linux/aarch64/latest/xrick_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/armhf/latest/xrick_libretro.so.zip) | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86/latest/xrick_libretro.so.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/linux/x86_64/latest/xrick_libretro.so.zip) |
@@ -1701,6 +1706,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/wasm4_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/wasm4_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/wasm4_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/wasm4_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/wasm4_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/wasm4_libretro.rpx.zip) |
 | wqxemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/x1_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/x1_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/x1_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/x1_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/x1_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/x1_libretro.rpx.zip) |
+| x16emu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xemu | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xenia_edge | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No | ❌ No |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/3dsx/xrick_libretro.3dsx.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/3ds/latest/cia/xrick_libretro.cia.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/ngc/latest/xrick_libretro_ngc.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/switch/libnx/latest/xrick_libretro_libnx.nro.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wii/latest/xrick_libretro_wii.dol.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/nintendo/wiiu/latest/xrick_libretro.rpx.zip) |
@@ -1983,6 +1989,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/wasm4_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/wasm4_libretro_psp.PBP.zip) |
 | wqxemu | ❌ No | ❌ No |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/ps2/latest/x1_libretro_ps2.elf.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/playstation/psp/latest/x1_libretro_psp.PBP.zip) |
+| x16emu | ❌ No | ❌ No |
 | xemu | ❌ No | ❌ No |
 | xenia_edge | ❌ No | ❌ No |
 | xrick | ❌ No | ❌ No |
@@ -2265,6 +2272,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/wasm4_libretro.so.zip) |
 | wqxemu | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/wqxemu_libretro.so.zip) |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/x1_libretro.so.zip) |
+| x16emu | ❌ No |
 | xemu | ❌ No |
 | xenia_edge | ❌ No |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/webos/armv7a/latest/xrick_libretro.so.zip) |
@@ -2547,6 +2555,7 @@
 | wasm4 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/wasm4_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/wasm4_libretro.dll.zip) |
 | wqxemu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/wqxemu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/wqxemu_libretro.dll.zip) |
 | x1 | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/x1_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/x1_libretro.dll.zip) |
+| x16emu | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/x16emu_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/x16emu_libretro.dll.zip) |
 | xemu | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/xemu_libretro.dll.zip) |
 | xenia_edge | ❌ No | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/xenia_edge_libretro.dll.zip) |
 | xrick | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86/latest/xrick_libretro.dll.zip) | [✅ Yes](https://buildbot.libretro.com/nightly/windows/x86_64/latest/xrick_libretro.dll.zip) |
@@ -2645,7 +2654,6 @@
 | [vice_x64dtv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vice_x64dtv_libretro.info) |
 | [vidtest_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vidtest_libretro.info) |
 | [vitavoyager_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/vitavoyager_libretro.info) |
-| [x16emu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/x16emu_libretro.info) |
 | [x64sdl_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/x64sdl_libretro.info) |
 | [yaps2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/yaps2_libretro.info) |
 | [zcdi_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/zcdi_libretro.info) |

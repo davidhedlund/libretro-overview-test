@@ -272,6 +272,7 @@
 | wasm4 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/wasm4_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/wasm4.md) |
 | wqxemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/wqxemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/wqxemu.md) |
 | x1 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/x1_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/x1.md) |
+| x16emu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/x16emu_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/x16emu.md) |
 | xemu | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xemu_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xemu.md) |
 | xenia_edge | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xenia_edge_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xenia_edge.md) |
 | xrick | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/xrick_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/xrick.md) |
