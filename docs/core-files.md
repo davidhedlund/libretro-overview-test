@@ -115,7 +115,7 @@
 | jollycv | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jollycv_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jollycv.md) |
 | jumpnbump | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/jumpnbump_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/jumpnbump.md) |
 | kronos | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/kronos_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/kronos.md) |
-| linuxloader | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
+| linuxloader | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/linuxloader_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/linuxloader.md) |
 | lowresnx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lowresnx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/lowresnx.md) |
 | lutro | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/lutro_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/lutro.md) |
 | m2000 | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/m2000_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/m2000.md) |
@@ -174,10 +174,10 @@
 | nxengine | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/nxengine_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/nxengine.md) |
 | o2em | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/o2em_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/o2em.md) |
 | oberon | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/oberon_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/oberon.md) |
-| odin | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/odin_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/odin.md) |
+| odin | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/odin_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/odin.md) |
 | omicron | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/omicron_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/omicron.md) |
 | openlara | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openlara_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openlara.md) |
-| openmsx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openmsx_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/openmsx.md) |
+| openmsx | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/openmsx_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/openmsx.md) |
 | opera | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/opera_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/opera.md) |
 | panda3ds | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/panda3ds_libretro.info) | [✅ Yes](https://github.com/libretro/docs/tree/master/docs/library/panda3ds.md) |
 | parallel_dc | [✅ Yes](https://github.com/libretro/libretro-super/tree/master/dist/info/parallel_dc_libretro.info) | [❌ No](https://github.com/libretro/docs/tree/master/docs/library/parallel_dc.md) |
