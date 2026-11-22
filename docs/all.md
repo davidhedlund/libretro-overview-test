@@ -2691,6 +2691,7 @@
 | [freej2me.md](https://github.com/libretro/docs/tree/master/docs/library/freej2me.md) |
 | [freej2me_plus.md](https://github.com/libretro/docs/tree/master/docs/library/freej2me_plus.md) |
 | [game_music_emu.md](https://github.com/libretro/docs/tree/master/docs/library/game_music_emu.md) |
+| [hakux-lr.md](https://github.com/libretro/docs/tree/master/docs/library/hakux-lr.md) |
 | [higan_accuracy.md](https://github.com/libretro/docs/tree/master/docs/library/higan_accuracy.md) |
 | [imageviewer.md](https://github.com/libretro/docs/tree/master/docs/library/imageviewer.md) |
 | [lowres_nx.md](https://github.com/libretro/docs/tree/master/docs/library/lowres_nx.md) |
@@ -2722,4 +2723,5 @@
 | [vice.md](https://github.com/libretro/docs/tree/master/docs/library/vice.md) |
 | [virtual_jaguar.md](https://github.com/libretro/docs/tree/master/docs/library/virtual_jaguar.md) |
 | [wasm-4.md](https://github.com/libretro/docs/tree/master/docs/library/wasm-4.md) |
+| [zcdi.md](https://github.com/libretro/docs/tree/master/docs/library/zcdi.md) |
 | [zesarpcw.md](https://github.com/libretro/docs/tree/master/docs/library/zesarpcw.md) |
