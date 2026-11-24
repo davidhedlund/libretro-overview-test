@@ -43,6 +43,7 @@
 | [mkxp-z.md](https://github.com/libretro/docs/tree/master/docs/library/mkxp-z.md) |
 | [mr_boom.md](https://github.com/libretro/docs/tree/master/docs/library/mr_boom.md) |
 | [mupen64plus.md](https://github.com/libretro/docs/tree/master/docs/library/mupen64plus.md) |
+| [my386.md](https://github.com/libretro/docs/tree/master/docs/library/my386.md) |
 | [neko_project_ii_kai.md](https://github.com/libretro/docs/tree/master/docs/library/neko_project_ii_kai.md) |
 | [nestopia_ue.md](https://github.com/libretro/docs/tree/master/docs/library/nestopia_ue.md) |
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |

@@ -36,6 +36,7 @@
 | [moonlight_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/moonlight_libretro.info) |
 | [mpv_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mpv_libretro.info) |
 | [mupen64plus_next_develop_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/mupen64plus_next_develop_libretro.info) |
+| [my386_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/my386_libretro.info) |
 | [nes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/nes_libretro.info) |
 | [onscripter_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onscripter_libretro.info) |
 | [onsyuri_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/onsyuri_libretro.info) |
