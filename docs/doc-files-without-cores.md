@@ -49,12 +49,14 @@
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
+| [riverhorse.md](https://github.com/libretro/docs/tree/master/docs/library/riverhorse.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |
 | [rvvm.md](https://github.com/libretro/docs/tree/master/docs/library/rvvm.md) |
 | [snes9x_2002.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2002.md) |
 | [snes9x_2005.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2005.md) |
 | [snes9x_2005_plus.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2005_plus.md) |
 | [snes9x_2010.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2010.md) |
+| [snowfishemu.md](https://github.com/libretro/docs/tree/master/docs/library/snowfishemu.md) |
 | [stone_soup.md](https://github.com/libretro/docs/tree/master/docs/library/stone_soup.md) |
 | [tempgba.md](https://github.com/libretro/docs/tree/master/docs/library/tempgba.md) |
 | [tgb_dual.md](https://github.com/libretro/docs/tree/master/docs/library/tgb_dual.md) |

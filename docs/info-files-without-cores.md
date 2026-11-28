@@ -13,6 +13,7 @@
 | [chimerasnes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/chimerasnes_libretro.info) |
 | [citra_canary_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/citra_canary_libretro.info) |
 | [cruzes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/cruzes_libretro.info) |
+| [cubspielecom_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/cubspielecom_libretro.info) |
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
@@ -63,6 +64,7 @@
 | [sdlpal_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/sdlpal_libretro.info) |
 | [simcp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/simcp_libretro.info) |
 | [sm2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/sm2_libretro.info) |
+| [snowfishemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/snowfishemu_libretro.info) |
 | [stonesoup_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/stonesoup_libretro.info) |
 | [syobonaction_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/syobonaction_libretro.info) |
 | [tempgba_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/tempgba_libretro.info) |

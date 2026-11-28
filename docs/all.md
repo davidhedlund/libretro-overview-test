@@ -2581,6 +2581,7 @@
 | [chimerasnes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/chimerasnes_libretro.info) |
 | [citra_canary_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/citra_canary_libretro.info) |
 | [cruzes_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/cruzes_libretro.info) |
+| [cubspielecom_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/cubspielecom_libretro.info) |
 | [directxbox_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/directxbox_libretro.info) |
 | [dolphin_launcher_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/dolphin_launcher_libretro.info) |
 | [duckstation_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/duckstation_libretro.info) |
@@ -2631,6 +2632,7 @@
 | [sdlpal_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/sdlpal_libretro.info) |
 | [simcp_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/simcp_libretro.info) |
 | [sm2_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/sm2_libretro.info) |
+| [snowfishemu_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/snowfishemu_libretro.info) |
 | [stonesoup_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/stonesoup_libretro.info) |
 | [syobonaction_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/syobonaction_libretro.info) |
 | [tempgba_libretro.info](https://github.com/libretro/libretro-super/tree/master/dist/info/tempgba_libretro.info) |
@@ -2711,12 +2713,14 @@
 | [nside_balanced.md](https://github.com/libretro/docs/tree/master/docs/library/nside_balanced.md) |
 | [redream.md](https://github.com/libretro/docs/tree/master/docs/library/redream.md) |
 | [remote_retropad.md](https://github.com/libretro/docs/tree/master/docs/library/remote_retropad.md) |
+| [riverhorse.md](https://github.com/libretro/docs/tree/master/docs/library/riverhorse.md) |
 | [rp6502.md](https://github.com/libretro/docs/tree/master/docs/library/rp6502.md) |
 | [rvvm.md](https://github.com/libretro/docs/tree/master/docs/library/rvvm.md) |
 | [snes9x_2002.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2002.md) |
 | [snes9x_2005.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2005.md) |
 | [snes9x_2005_plus.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2005_plus.md) |
 | [snes9x_2010.md](https://github.com/libretro/docs/tree/master/docs/library/snes9x_2010.md) |
+| [snowfishemu.md](https://github.com/libretro/docs/tree/master/docs/library/snowfishemu.md) |
 | [stone_soup.md](https://github.com/libretro/docs/tree/master/docs/library/stone_soup.md) |
 | [tempgba.md](https://github.com/libretro/docs/tree/master/docs/library/tempgba.md) |
 | [tgb_dual.md](https://github.com/libretro/docs/tree/master/docs/library/tgb_dual.md) |
